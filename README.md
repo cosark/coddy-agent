@@ -61,6 +61,11 @@ agent:
 
 `coddy -t` checks the file and `coddy --dry-run` probes what it points at. Anthropic, NeuralDeep, ChatGPT sign-in through the Codex backend, a Devin account signed in through the browser ([Devin](docs/features/devin.md)), Ollama, llama.cpp and any other OpenAI-compatible server are covered in [Configuration](docs/getting-started/configuration.md). The first five minutes on every surface are in [Quickstart](docs/getting-started/quickstart.md); upgrades are `coddy update -y`, which ends with the release notes of every version it skipped over ([Update](docs/getting-started/update.md)).
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Coddy/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/coddy"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## Surfaces
 
 | Surface | Start it | What you get | Guide |
